@@ -1,0 +1,9 @@
+The python module pygame is needed to run this.
+Run using python 3.X
+Run from command line/command prompt witt:
+$ python play_flip_cards.py 
+
+Click to start.
+Click a card to flip it.
+Click on Run method to see the solve.
+The counter at the top indicates the number of flips needed.
